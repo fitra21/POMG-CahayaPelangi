@@ -1,0 +1,171 @@
+.android-compact {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.android-compact .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 412px;
+  height: 917px;
+}
+
+.android-compact .overlap-group {
+  position: relative;
+  height: 917px;
+  background-image: url(./img/simpan-moment-4-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.android-compact .simpan-moment {
+  position: absolute;
+  width: 412px;
+  height: 841px;
+  top: 38px;
+  left: 0;
+  object-fit: cover;
+}
+
+.android-compact .building-blocks {
+  display: inline-flex;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 646px;
+  left: 172px;
+}
+
+.android-compact .content {
+  display: inline-flex;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #eaddff;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.android-compact .state-layer {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.android-compact .label {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--m3-label-large-font-family);
+  font-weight: var(--m3-label-large-font-weight);
+  color: #4f378a;
+  font-size: var(--m3-label-large-font-size);
+  letter-spacing: var(--m3-label-large-letter-spacing);
+  line-height: var(--m3-label-large-line-height);
+  white-space: nowrap;
+  font-style: var(--m3-label-large-font-style);
+}
+
+
+
+
+.android-compact {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.android-compact .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 412px;
+  height: 917px;
+}
+
+.android-compact .overlap2-group {
+  position: relative;
+  height: 917px;
+  background-image: url(./img/simpan-moment-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.android-compact .text-wrapper {
+  position: absolute;
+  height: 20px;
+  top: 72px;
+  left: 97px;
+  font-family: var(--m3-label-large-font-family);
+  font-weight: var(--m3-label-large-font-weight);
+  color: #000000;
+  font-size: var(--m3-label-large-font-size);
+  letter-spacing: var(--m3-label-large-letter-spacing);
+  line-height: var(--m3-label-large-line-height);
+  white-space: nowrap;
+  font-style: var(--m3-label-large-font-style);
+}
+
+.android-compact .product-info-card {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 240px;
+  align-items: flex-start;
+  gap: var(--size-space-400);
+  padding: var(--size-space-400);
+  position: absolute;
+  top: 132px;
+  left: 86px;
+  background-color: var(--color-background-default-default);
+  border-radius: var(--size-radius-200);
+  border: 1px solid;
+  border-color: var(--color-border-default-default);
+}
+
+.android-compact .image {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 247px;
+  background: linear-gradient(
+    0deg,
+    rgba(227, 227, 227, 1) 0%,
+    rgba(227, 227, 227, 1) 100%
+  );
+}
+
+.android-compact .div {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 240px;
+  align-items: flex-start;
+  gap: var(--size-space-400);
+  padding: var(--size-space-400);
+  position: absolute;
+  top: 517px;
+  left: 86px;
+  background-color: var(--color-background-default-default);
+  border-radius: var(--size-radius-200);
+  border: 1px solid;
+  border-color: var(--color-border-default-default);
+}
+
+.android-compact .image-2 {
+  position: relative;
+  width: 208px;
+  height: 247px;
+  background: linear-gradient(
+    0deg,
+    rgba(227, 227, 227, 1) 0%,
+    rgba(227, 227, 227, 1) 100%
+  );
+}
