@@ -31,11 +31,11 @@ const ctx = resultCanvas.getContext('2d');
 
 // Notifikasi
 const frameMessages = {
-    frame1: "Yeay! Bingkai lucu dipilih~ 💕",
-    frame2: "Warnanya lucu banget! 🌈",
-    frame3: "Ceri-ceri cantik! 🌸",
-    frame4: "Vintage vibes! 📻",
-    frame5: "Kawaii desu ne~(≧◡≦)",
+    frame1: "Yeay! Bingkai karnaval PG dipilih~ 💕",
+    frame2: "Bingkai TK A lucu banget! 🌈",
+    frame3: "Uwow! TK B keren! 🌸",
+    frame4: "Gebyar Merdeka PG! 💕",
+    frame5: "Imutnya~(≧◡≦)",
     frame6: "Bingkai cantik untuk orang cantik~♡"
 };
 
